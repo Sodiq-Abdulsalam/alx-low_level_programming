@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main - start point for code block
+ * main -main function
  *
- * return: return 0 when code is successful
+ * Return: return 0 when code is successful
  */
 
 int main(void)
