@@ -6,7 +6,7 @@
  * @argc: argument count.
  * @argv: argument array or vector.
  *
- * return: always 0.
+ * Return: always 0.
  *
  */
 
