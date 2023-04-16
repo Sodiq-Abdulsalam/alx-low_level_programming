@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints file name
+ * main - main to prints file name
  * @argc: number of arguments
  * @argv: array of arguments
  *
